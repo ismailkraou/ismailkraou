@@ -3,7 +3,7 @@
 # Hi there 👋 I'm ismail kraou
 ## im a Junior frontend developer
 
-[![Linkedin Badge]([https://raw.githubusercontent.com/ismailkraou/ismailkraou/main/images/linkedin.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/ismailkraou/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanrajdc7/)
 
 
 <a href="https://ismailkraou.github.io/"><img src="https://raw.githubusercontent.com/ismailkraou/ismailkraou/f7fc9aaaf5307d528bb4f76135769f4168d18e88/images/MyPortfolio-blueviolet.svg"/></a>
