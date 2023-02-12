@@ -1,12 +1,12 @@
-<img src="https://github.com/ismailkraou/ismailkraou/images/ismailkraou-Banner.png"/>
+<img src="https://raw.githubusercontent.com/ismailkraou/ismailkraou/main/images/ismailkraou-Banner.png"/>
 
 # Hi there 👋 I'm ismail kraou
 ## im a Junior frontend developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
+[![Linkedin Badge](https://raw.githubusercontent.com/ismailkraou/ismailkraou/f7fc9aaaf5307d528bb4f76135769f4168d18e88/images/MyPortfolio-blueviolet.svg)](https://www.linkedin.com/in/dhanrajdc7/)
 
 
-<a href="https://ismailkraou.github.io/"><img src="https://github.com/ismailkraou/ismailkraou/images/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://ismailkraou.github.io/"><img src="https://raw.githubusercontent.com/ismailkraou/ismailkraou/f7fc9aaaf5307d528bb4f76135769f4168d18e88/images/MyPortfolio-blueviolet.svg"/></a>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ismailkraou)
